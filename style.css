@@ -1,0 +1,158 @@
+* {
+    /* color: #1e90ff; */
+    background-color: #FAF3DD;
+    font-family: cursive, fantasy, serif;
+    margin: 0px;
+}
+
+
+.header{
+    background-color: #FAF3DD;
+    display: flex;
+    justify-content: space-between;
+    padding:25px
+}
+
+.grid {
+    margin: 25px;
+    padding: 25px;
+    justify-content: center;
+}
+
+.panda{
+    display : flex;
+    color:black
+}
+
+
+.panda:hover {
+    opacity: 1;
+    transform: scale(1.15);
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.chameleon{
+    display : flex;
+    color:black
+}
+
+.chameleon:hover {
+    opacity: 1;
+    transform: scale(1.15);
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.cicada{
+    display : flex;
+    color:black
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.cicada:hover {
+    opacity: 1;
+    transform: scale(1.15);
+}
+
+.pigeon{
+    display : flex;
+    color:black
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.teddy{
+    display : flex;
+    color:black
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+
+.pigeon:hover {
+    opacity: 1;
+    transform: scale(1.15);
+}
+
+.camel{
+    display : flex;
+    color:black
+}
+
+.camel:hover {
+    opacity: 1;
+    transform: scale(1.15);
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+
+.teddy:hover {
+    opacity: 1;
+    transform: scale(1.15);
+}
+
+    h1{
+        text-align: center;
+        color : black;
+        padding: 25px;
+}
+
+body{
+    background: blue;
+    color: whitesmoke;
+}
+
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: green;
+}
+
+img {
+    margin-bottom: -5px;
+}
+
+
+li {
+    color: black;
+}
+
+b {
+    font-size: 15px;
+    color: black;
+}
+
+i {
+    font-size: 15px;
+    color: black;
+}
